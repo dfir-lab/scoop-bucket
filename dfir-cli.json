@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dfir-lab/dfir-cli-releases/releases/download/v0.1.0/dfir-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "dfir-cli.exe"
+            ],
+            "hash": "906404848525c31eb38b2ca56d06459ca7b6e819beed2e1787516bb830ab5a3d"
+        }
+    },
+    "homepage": "https://dfir-lab.ch",
+    "license": "MIT",
+    "description": "DFIR Lab CLI — digital forensics and incident response toolkit"
+}
