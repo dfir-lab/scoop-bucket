@@ -1,12 +1,12 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dfir-lab/dfir-cli-releases/releases/download/v0.1.7/dfir-cli_0.1.7_windows_amd64.zip",
+            "url": "https://github.com/dfir-lab/dfir-cli-releases/releases/download/v0.1.8/dfir-cli_0.1.8_windows_amd64.zip",
             "bin": [
                 "dfir-cli.exe"
             ],
-            "hash": "bf3a250c282d9c58bb035a1fde55b2bd3d209c5d7b2f220b6b18ba1ad8b6c84a"
+            "hash": "23681431c1d2678c3a93c9c9e6b003a8a85316c324cbeb3728686498a3d0d02c"
         }
     },
     "homepage": "https://dfir-lab.ch",
